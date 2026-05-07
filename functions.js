@@ -332,11 +332,11 @@ $(document).ready(function(){
         <div class="span4 contato_rodape">
             <div class="whatsrp">
                 <strong>Fale conosco no WhatsApp</strong>
-                <span><i class="fa fa-whatsapp"></i>(11) 98892-5487</span>
+                <span><i class="fa fa-whatsapp"></i>(65) 99270-3870</span>
             </div>
             <div class="mailrp">
                 <strong>Fale conosco no E-mail</strong>
-                <span><i class="fa fa-envelope"></i>contato@ngcpgames.com.br</span>
+                <span><i class="fa fa-envelope"></i>atendimento@c4rmo.com.br</span>
             </div>
             <div class="horariorp">
                 <strong>Horário de atendimento</strong>
@@ -345,7 +345,7 @@ $(document).ready(function(){
             </div>
             <div class="enderecorp">
                 <strong>Endereço</strong>
-                <span><i class="fa fa-map-marker"></i>R PAGANO SOBRINHO, B12, APT 42, VILA CAMILOPOLIS, SANTO ANDRE - SP - CEP 09230-520</span>
+                <span><i class="fa fa-map-marker"></i>Alameda Hermes Rodrigues da Fonseca, 471 - CEP 78452-540</span>
             </div>
         </div>
     
