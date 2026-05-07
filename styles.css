@@ -23,7 +23,7 @@ button,
 
 :root {
     /* Cores do cabeçalho */
-    --fundo-cabecalho: #141414;
+    --fundo-cabecalho: #000000;
     --texto-cabecalho: #f9f9f9;
     --icone-cabecalho: #eb3033;
     --fundo-menu-superior: #141414;
